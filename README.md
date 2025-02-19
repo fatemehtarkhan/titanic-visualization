@@ -1,4 +1,4 @@
-#Goal: Build a visual storytelling project using Matplotlib & Seaborn.
+###Goal: Build a visual storytelling project using Matplotlib & Seaborn.
 
 ##Project Requirements:
 .Load the Titanic dataset.
