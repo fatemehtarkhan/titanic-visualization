@@ -171,4 +171,5 @@ cython_debug/
 .pypirc
 
 
-*_csv
+.DS_Store
+*.csv
